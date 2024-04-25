@@ -4,7 +4,7 @@
 
 ## Donation
 
-you can donate using the following cryptocurrencies:
+If you find value in the projects I have done and would like to support their continued development, you can donate using the following cryptocurrencies:
 
 BTC(Bitcoin): `1DGU9zRC8cvexq3W92Kzxqg5sNnbWPz9fE`
 
